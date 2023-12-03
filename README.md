@@ -3,7 +3,7 @@
 ## Web Dev Student at [Lighthouse Labs](http://www.lighthouselabs.ca/)
 
 - 🌱 I’m currently learning Ruby on Rails
-- 📫 How to reach me: **lopezh.diana@yahoo.com**
+- 📫 How to reach me: **diana.lh@yahoo.com**
 - ⚡ Fun fact: 💃 🚴
 
 ## Languages and Tools:
