@@ -1,8 +1,8 @@
 # Hi, I'm Diana <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-## Web Dev Student at [Lighthouse Labs](http://www.lighthouselabs.ca/)
+## Web Dev Student at [Lighthouse Labs](http://www.lighthouselabs.ca/) 👨‍💻
 
-- 🌱 I’m currently working on LHL final project [InstaStaff](https://github.com/dialop/instastaff.git)
+- 🌱 I’m currently working on the final project [InstaStaff](https://github.com/dialop/instastaff.git)
 - 📫 How to reach me: **diana.lh@yahoo.com**
 - ⚡ Fun fact: 💃 🚴
 
@@ -19,7 +19,7 @@
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-## GitHub Stats
+## GitHub Stats 📈
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
