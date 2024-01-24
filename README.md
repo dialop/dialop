@@ -2,7 +2,7 @@
 
 ## Web Dev Student at [Lighthouse Labs](http://www.lighthouselabs.ca/)
 
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning Instastaff 
 - 📫 How to reach me: **diana.lh@yahoo.com**
 - ⚡ Fun fact: 💃 🚴
 
