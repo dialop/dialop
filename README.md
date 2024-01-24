@@ -2,17 +2,23 @@
 
 ## Web Dev Student at [Lighthouse Labs](http://www.lighthouselabs.ca/)
 
-- 🌱 I’m currently learning Instastaff 
+- 🌱 I’m currently working on final project [Lighthouse Labs](https://github.com/dialop/instastaff.git)
 - 📫 How to reach me: **diana.lh@yahoo.com**
 - ⚡ Fun fact: 💃 🚴
 
-## Languages and Tools:
+## Languages
 
-![JavaScript](assets/javascript.svg) ![HTML](assets/html.svg) ![CSS](assets/css.svg) ![Bootstrap](assets/bootstrap.svg) ![jQuery](assets/jquery.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](assets/html.svg) ![CSS](assets/css.svg) ![RUBY]()
 
-![React](assets/react.svg) ![Create React App](assets/create.svg) ![Node](assets/node.svg) ![Express](assets/express.svg)
+![Bootstrap](assets/bootstrap.svg) ![jQuery](assets/jquery.svg)
 
-![VSCode](assets/vscode.svg) ![Git](assets/git.svg) ![NPM](assets/npm.svg)
+![React](assets/react.svg) ![Node](assets/node.svg) ![Express](assets/express.svg) [Tailwind]() [Rails]() [SASS]()
+
+![Postgressql]()
+
+![Cypress]() ![Jest]() ![Chai]() ![Mocha]()
+
+![VSCode](assets/vscode.svg) ![Git](assets/git.svg) ![Linux]()
 
 <details>
 <summary>📊 GitHub Stats</summary>
