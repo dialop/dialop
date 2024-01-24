@@ -8,11 +8,6 @@
 
 ## Languages and Tools:
 
-![JavaScript](assets/javascript.svg) ![HTML](assets/html.svg) ![CSS](assets/css.svg)  ![Bootstrap](assets/bootstrap.svg) ![jQuery](assets/jquery.svg)
-
-![React](assets/react.svg) ![Create React App](assets/create.svg) ![Node](assets/node.svg) ![Express](assets/express.svg)
-
-![VSCode](assets/vscode.svg) ![Git](assets/git.svg) ![NPM](assets/npm.svg)
 
 <details>
 <summary>📊 GitHub Stats</summary>
