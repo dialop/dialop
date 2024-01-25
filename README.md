@@ -27,8 +27,4 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats" title="Go to Source">
-    <img alt="Diana Lopez's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dialop&theme=react&border=61dafb" height="192px"/>
-  </a>
-</p>
+
