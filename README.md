@@ -1,6 +1,6 @@
 # Hi, I'm Diana <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 🌱 I’m currently working on the final project [InstaStaff](https://github.com/dialop/instastaff.git)
+- 🌱 I’m currently working on the final project [InstaStaff](https://github.com/dialop/portfolio.git)
 - 📫 How to reach me: **dianalophernandez@gmail.com**
 - ⚡ Fun fact: 💃 🚴
 
