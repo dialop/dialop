@@ -3,7 +3,7 @@
 - 🛠️ Working on [Portfolio](https://github.com/dialop/portfolio.git)
 - 🌱 Currently learning Python 
 - 📫 How to reach me: **dianalophernandez@gmail.com**
-- ⚡ Fun fact: 💃 🚴
+- ⚡ Interests: 💃 🚴
 
 ## Languages and Tools
 
