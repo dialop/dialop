@@ -1,7 +1,6 @@
 # Hi, I'm Diana <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 🛠️ Working on [Portfolio](https://github.com/dialop/portfolio.git)
-- 🌱 Currently learning Python 
+- 🔗 Check out my [Portfolio](https://github.com/dialop/portfolio.git)!
 - 📫 How to reach me: **dianalophernandez@gmail.com**
 - ⚡ Interests: 💃 🚴
 
