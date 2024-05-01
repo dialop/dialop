@@ -1,6 +1,7 @@
 # Hi, I'm Diana <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 - 🔗 Check out my [Portfolio](https://github.com/dialop/portfolio.git)!
+- 🌱 Currently learning Python [Derm-Scan](https://github.com/dialop/derm-scan.git)!
 - 📫 How to reach me: **diana.lophernandez@gmail.com**
 - ⚡ Interests: 💃 🚴
 
